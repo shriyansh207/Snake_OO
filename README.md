@@ -15,8 +15,10 @@ Python can run on Mac, Windows and Linux so the correct version of Python needs 
 * Ouch.wav
 The game wont run unless the source code and the files above are in the same location on the computer.
 
-## Usage
-The objective of this game is to try get as high of a score as possible. In order to do this, you must navigate the purple snake and have it eat the red apples.
+## Usage and Instructions
+After installing all packages needed to run the game. Open the 'snake_oo.py' file and run it.
+The objective of this game is to try get as high of a score as possible. In order to do this, you must navigate the purple snake and have it eat the red apples. When the apple is eaten, the snakes length will increase by 1. However, be wary of the green apples. When they are eaten, if the length of the snake isn't big enough, the snake will die. However, if it is big enough then the snakes size will decrease by a substantial amount (play the game to find out how much.) Havving the snake eat itself will also kill it. Lastly, running the snake onto the walls will also kill the snake.
+
 
 
 
