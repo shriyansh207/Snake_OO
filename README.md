@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Description]
 * [Installation]
+* [Usage and Instructions]
 
 ## Description
 I was tasked with creating a game in Python using the library Pygame. I have created my variation of the classic game by adding extra features. The objective of this game is to eat red apples and try get the highest score. However, there is a twist, green apples spawn in at a random location every 20 seconds. If you eat the green apples and your length is greater than 6, then the snakes length will decrease. However, If you eat the green apple when your length is equal to or greater than 6, then you will die. Bumping into the rocks or eating yourself will also cause you to die.
@@ -17,7 +18,7 @@ The game wont run unless the source code and the files above are in the same loc
 
 ## Usage and Instructions
 After installing all packages needed to run the game. Open the 'snake_oo.py' file and run it.
-The objective of this game is to try get as high of a score as possible. In order to do this, you must navigate the purple snake and have it eat the red apples. When the apple is eaten, the snakes length will increase by 1. However, be wary of the green apples. When they are eaten, if the length of the snake isn't big enough, the snake will die. However, if it is big enough then the snakes size will decrease by a substantial amount (play the game to find out how much.) Havving the snake eat itself will also kill it. Lastly, running the snake onto the walls will also kill the snake.
+The objective of this game is to try get as high of a score as possible. In order to do this, you must navigate the purple snake and have it eat the red apples. When the apple is eaten, the snakes length will increase by 1. However, be wary of the green apples. When they are eaten, if the length of the snake isn't big enough, the snake will die. However, if it is big enough then the snakes size will decrease by a substantial amount (play the game to find out how much.) Having the snake eat itself will also kill it. Lastly, running the snake onto the walls will also kill the snake.
 
 
 
